@@ -1,0 +1,6 @@
+dataset/44k/chester/chester_vocals_only480_0_611_0_11.700_21.700.wav
+dataset/44k/chester/chester_vocals_only480_0_611_0_63.100_66.900.wav
+dataset/44k/dilma/dilma_1153_9_183_0_10.000_20.000.wav
+dataset/44k/dilma/dilma_1534_4_537_9_0.000_3.500.wav
+dataset/44k/lula/lula_podpah319_5_340_9_10.000_20.000.wav
+dataset/44k/lula/lula_podpah103_1_117_3_10.000_14.200.wav
