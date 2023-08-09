@@ -1,0 +1,12 @@
+[submodule "Retrieval-based-Voice-Conversion-WebUI"]
+	path = Retrieval-based-Voice-Conversion-WebUI
+	url = https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git
+[submodule "so-vits-svc-5.0"]
+	path = so-vits-svc-5.0
+	url = https://github.com/PlayVoice/so-vits-svc-5.0.git
+[submodule "so-vits-svc-fork"]
+	path = so-vits-svc-fork
+	url = https://github.com/voicepaw/so-vits-svc-fork.git
+[submodule "FreeVC"]
+	path = FreeVC
+	url = https://github.com/OlaWod/FreeVC.git
