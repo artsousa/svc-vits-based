@@ -1,0 +1,1 @@
+svc train --config-path svc-fork-routines\configs-single-chester\44k\config.json --model-path svc-fork-routines\logs\single-target-chester\44k
