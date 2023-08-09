@@ -9,6 +9,8 @@ __pycache__/
 *.so
 
 rawset/*.wav
+speakers*
+raw_split/*
 
 # Distribution / packaging
 .Python
